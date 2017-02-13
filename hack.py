@@ -5,7 +5,7 @@ while True:
 		for i in range(1,101):
 			time.sleep(0.25)
 			print("loading file {} %".format(i))
-		print("loding terminate")
+		print("loading terminate")
 		time.sleep(5)
 		print("cmd 자동 로그인")
 		time.sleep(3) 
